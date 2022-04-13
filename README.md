@@ -1,5 +1,6 @@
 # WarmUp-App
-A Gym goer's solution <br />
+A Gym goer's solution
+
 Providing informative feature on gym machine usage, tackle gym insecurities, customizable workout routines to encourage users to strive for their exercise goals, & engage in an online community
 
 See Grace's Figma prototype in action: https://youtu.be/GhVf-7f-xRM <br />
